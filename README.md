@@ -4,4 +4,4 @@
 2. Replace the api_id api_hash data in the script with your own.
 3. Add your channel and channels where posts will be parsed from.
 4. Create a folder where the photos will be downloaded.
-5. run the script.
+5. Run the script.
